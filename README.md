@@ -43,7 +43,7 @@
 
 ```
 ✅ Phase 1 Started — Basic account model with deposit and withdrawal
-🔜 Next Step — Connect JSON storage with the banking flow
+🔜 Next Step — Connect JSON storage with the account flow
 ```
 
 ---
